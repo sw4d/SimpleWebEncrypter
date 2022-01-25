@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Building a way to encrypt/decrpyt messges can feel daunting if you've never had to work on it before. The project provides an example Ruby Class which only uses core Ruby libraries. The encrypted values are base_64 encoded so your results can be used as part of a query param as well.
+Building a way to encrypt/decrypt messges can feel daunting if you've never had to work on it before. The project provides an example Ruby Class which only uses core Ruby libraries. The encrypted values are base_64 encoded so your results can be used as part of a query param as well.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
