@@ -94,7 +94,7 @@ The bread/butter of the logic is in the secret_payload.rb file. Copy/paste the c
 
 ### Prerequisites
 
-A computer with Ruby. This project was build on 2.6.5 but other 2.0+ versions should work fine.
+A computer with Ruby. This project was built with 2.6.8 but other 2.0+ versions should work fine.
 
 If unsure run:
 ```
