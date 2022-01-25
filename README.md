@@ -26,7 +26,7 @@
 
 <h3 align="center">Simple Web Encrypter</h3>
 
-  <p align="center">
+  <p align="left">
     A Ruby class that only relies on core Ruby libraries to allow the user to encrypt / decrtpt secrets in a way that's friendly for URL paths and attributes
     <br />
     <a href="https://github.com/sw4d/SimpleWebEncrypter"><strong>Explore the docs »</strong></a>
@@ -111,13 +111,14 @@ require 'secret_payload'
 
 # encrypt some value - could be string, hash, array, etc.
 cipher = SecretPayload.new
-encrypted_secret = cipher.encrypt('some_value')
-payload = encrypted_secret.payload
-iv = encrypted_secret.iv
+cipher.encrypt('some_value')
+payload = cipher.payload
+iv = cipher.iv
 
 # decrypt value
 cipher = SecretPayload.new
 decrypted_secret = cipher.decrypt(payload, iv)
+decrpyted_secret['secret']
  => 'some_value'
 ```
 
@@ -179,8 +180,8 @@ Project Link: [https://github.com/sw4d/SimpleWebEncrypter](https://github.com/sw
 ## Acknowledgments
 
 * []() Hope this helps
-* []()
-* []()
+* []() Encrypting hash keys with symbols will comeback as strings
+* []() 2022
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
