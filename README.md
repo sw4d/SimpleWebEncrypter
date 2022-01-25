@@ -110,7 +110,6 @@ No Gemfile or bundling required
 
 By default all encrypted secrets have a shelf life of 30 days. After 30 days a secret can no longer be decrypted.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 ```
 require 'secret_payload'
 
