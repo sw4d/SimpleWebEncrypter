@@ -27,7 +27,7 @@
 <h3 align="center">Simple Web Encrypter</h3>
 
   <p align="left">
-    A Ruby class that only relies on core Ruby libraries to allow the user to encrypt / decrtpt secrets in a way that's friendly for URL paths and attributes
+    A Ruby class that only relies on core Ruby libraries to allow the user to encrypt / decrypt secrets in a way that's friendly for URL paths and attributes
     <br />
     <a href="https://github.com/sw4d/SimpleWebEncrypter"><strong>Explore the docs »</strong></a>
     <br />
