@@ -19,10 +19,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sw4d/SimpleWebEncrypter">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">Simple Web Encrypter</h3>
 
@@ -199,5 +199,5 @@ Project Link: [https://github.com/sw4d/SimpleWebEncrypter](https://github.com/sw
 [license-shield]: https://img.shields.io/github/license/sw4d/SimpleWebEncrypter.svg?style=for-the-badge
 [license-url]: https://github.com/sw4d/SimpleWebEncrypter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/stephen-ford-8853b011/
 [product-screenshot]: images/screenshot.png
